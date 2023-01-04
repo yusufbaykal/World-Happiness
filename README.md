@@ -1,6 +1,6 @@
 # World Happiness Data Analizi ve Görselleştirme
 
-# Data seti içerisinde yıllara göre bölgelerin mutluluk skorlaması gösterilmiştir.
+**Data seti içerisinde yıllara göre bölgelerin mutluluk skorlaması gösterilmiştir.**
 <img src="./bölgelermutluluk.png"/>
 
 
