@@ -31,12 +31,9 @@
  
 
 **Bölgeler ve Ülkeler düzeyinde mutluluk skorlaması görselleştirilmesi yapılıp yüksek ve düşük olarak sıralandırılmıştır.**
-<p align="center">
-  <img width="500" height="500" src="./image/bölge1.png"/>
-</p>
-<p align="center">
-  <img width="500" height="500" src="./image/bölge2.png"/>
-</p>
+ <img   src="./image/bölge1.png"/>
+ <img   src="./image/bölge2.png"/>
+ 
  
 
 **Ülkeler arasında  GPD ve Mutluluk skoru özniteliklerine bakılarak 3 farklı clustering(Düşük,Orta,Yüksek) yapılmıştır.**
