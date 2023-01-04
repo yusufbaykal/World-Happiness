@@ -1,7 +1,9 @@
 # World Happiness Data Analizi ve Görselleştirme
 
 **Data seti içerisinde yıllara göre bölgelerin mutluluk skorlaması gösterilmiştir.**
-<img src="./image/bölgelermutluluk.png"/>
+<p align="center">
+  <img width="250" height="250" src="./image/bölgelermutluluk.png"/>
+</p>
 
 
 **Yıllara göre değişen mutluluk skorlamasında mutluluğu en çok etkileyen faktörlerin gösterimi yapılmıştır.**
