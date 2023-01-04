@@ -32,10 +32,10 @@
 
 **Bölgeler ve Ülkeler düzeyinde mutluluk skorlaması görselleştirilmesi yapılıp yüksek ve düşük olarak sıralandırılmıştır.**
 <p align="center">
-  <img width="600" height="500" src="./image/bölge1.png"/>
+  <img width="500" height="500" src="./image/bölge1.png"/>
 </p>
 <p align="center">
-  <img width="600" height="500" src="./image/bölge2.png"/>
+  <img width="500" height="500" src="./image/bölge2.png"/>
 </p>
  
 
@@ -57,9 +57,7 @@
  
 
 **Ülkeler arasında mutluluk skoru özniteliğinin sıçrama ve ani düşüş yaşamaları karşılaştırılması yapılmıştır.**
-<p align="center">
-  <img width="600" height="500" src="./image/farklar.png"/>
-</p>
+ <img  src="./image/farklar.png"/>
 
  
 
