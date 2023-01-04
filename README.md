@@ -2,7 +2,7 @@
 
 **Data seti içerisinde yıllara göre bölgelerin mutluluk skorlaması gösterilmiştir.**
 <p align="center">
-  <img width="250" height="250" src="./image/bölgelermutluluk.png"/>
+  <img width="500" height="500" src="./image/bölgelermutluluk.png"/>
 </p>
 
 
